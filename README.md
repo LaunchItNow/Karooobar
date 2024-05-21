@@ -5,7 +5,8 @@
  Successful business relies on successful Inventory Management. Automate your Inventory Operations and Sell more with less effort.
 
 > [!Note]
-> Check us out [Karooobar](https://app.karooobar.com/)
+> Check us out [Karooobar](https://app.karooobar.com/)<br>
+> Have a feature request? [Suggest us](https://karooobar.features.vote/board)
 
 <br>
 <br>
