@@ -1,6 +1,6 @@
 # Karooobar
 
-### Manage Inventory and check Sales,Instantly
+### Manage Inventory and check Sales, Instantly.
 
  Successful business relies on successful Inventory Management. Automate your Inventory Operations and Sell more with less effort.
 
